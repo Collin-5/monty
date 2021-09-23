@@ -3,7 +3,7 @@
  * add_end_node - add node to front of doubly linked list
  * @h: pointer to head of list
  * @n: node data
- * Return: 0 if success, -1 if failed
+ * Return: 0 if success, -1 if failed.
  */
 int add_end_node(stack_t **h, int n)
 {
